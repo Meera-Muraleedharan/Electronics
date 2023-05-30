@@ -1,0 +1,141 @@
+.card1{
+    border: none;
+    width: 50px;
+    height: 50px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.card-group1{
+    margin-left: 200px;
+    margin-top: 30px;
+    margin-right: 250px;
+}
+.top-image{
+    width: 70px;
+    height: 50px;
+    margin-left: 35px;
+}
+.btn{
+    color: black;
+    background-color: white;
+    border: none;
+    
+}
+.btn:hover{
+   box-shadow: none;
+}
+.navbar{
+    background-color: #0e2c40;
+    justify-content: space-between;
+}
+.nav-link{
+    color: #efbc75;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+.nav-item{
+    margin-right: 40px;
+}
+.nav-link:hover{
+    color: #efbc75;
+}
+.navbar-brand{
+    color: #efbc75;
+    font-weight: bolder;
+    font-size: larger;
+
+}
+.fa-cart-shopping{
+    color: #efbc75;
+    margin-top: 8px;
+}
+.fa-user{
+    margin-top: 6px;
+}
+.button1{
+    margin-top: 5px;
+}
+.content{
+    margin-top: 100px;
+}
+.d-block{
+    height: 460px;
+}
+.card2{
+    padding: 10px;
+   
+}
+.deal-img:hover{
+    transform: scale(1.09);
+}
+.deals{
+    background-color: #0e2c40;
+    color: #efbc75;
+    
+}
+.card2{
+    background-color: #0e2c40;
+    padding-bottom: 50px;
+}
+.deal-heading{
+   margin-top: 0px;
+   padding-top: 30px;
+   margin-left: 20px;
+   padding-bottom: 10px;
+   font-size: larger;
+   text-align: center;
+}
+.list-group{
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+.fa-tv{
+    width: 40px;
+    height: 40px;
+}
+.card3{
+   margin-top: 20px;
+    border: 2px solid  #0e2c40;
+}
+.card-group3{
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 60px;
+}
+.tv-heading{
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 30px;
+    
+}
+.tv-img{
+    width: 200px;
+margin-left: 15px;    
+}
+.tv{
+    background-color: #efbc75;
+}
+.top-heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.top-rated{
+    padding-bottom: 30px;
+}
+.site{
+    margin-left: 30px;
+}
+.policy{
+    margin-left: 40px;
+}
+.footer{
+    padding-top: 30px;
+}
